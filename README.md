@@ -39,6 +39,6 @@ python3 flip.py input.jpg output.jpg
 
   |入力画像(input.jpg)|出力画像(output.jpg)|
   |---|---|
-  |![入力画像](input.jpg)|![出力画像](output_image.jpg)|
+  |![入力画像](input.jpg)|![出力画像](output.jpg)|
   
 以上
