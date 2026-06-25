@@ -1,3 +1,8 @@
+<img width="640" height="468" alt="output" src="https://github.com/user-attachments/assets/ac91efda-7f87-4ef1-b100-bad2198ae441" />
+<img width="640" height="468" alt="input" src="https://github.com/user-attachments/assets/84b77690-a6df-40f6-8f47-d2a2aafc7b27" />
+<img width="640" height="468" alt="input" src="https://github.com/user-attachments/assets/b6d5a34e-386e-48e6-bbe0-cd80cc27262d" />
+<img width="640" height="468" alt="output" src="https://github.com/user-attachments/assets/673c82ff-8011-4ca3-bb8e-f010d2f481f8" />
+<img width="640" height="468" alt="input" src="https://github.com/user-attachments/assets/81c9b91f-37a8-430d-8e0a-f72e2cad6600" />
 # 左右反転画像　生成プログラム filp.py
 ----------------------------------------
 # 1.概要
