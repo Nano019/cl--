@@ -1,3 +1,3 @@
 # cl12_kadai
 
-*aaaaa
+* aaaaa
